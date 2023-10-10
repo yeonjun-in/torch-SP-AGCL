@@ -51,3 +51,16 @@ sh sh/clustering.sh
 sh sh/hetero_node.sh
 ```
 
+### Cite (Bibtex)
+- If you find ``SP-AGCL`` useful in your research, please cite the following paper:
+  - Yeonjun In, Kanghoon Yoon, and Chanyoung Park. "Similarity Preserving Adversarial Graph Contrastive Learning." KDD 2023.
+  - Bibtex
+```
+@article{in2023similarity,
+  title={Similarity Preserving Adversarial Graph Contrastive Learning},
+  author={In, Yeonjun and Yoon, Kanghoon and Park, Chanyoung},
+  journal={arXiv preprint arXiv:2306.13854},
+  year={2023}
+}
+```
+
