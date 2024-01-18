@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/pypi/l/torch-rechub">
 </p>
 
-The official source code for [**Similarity-Preserving Adversarial Graph Contrastive Learning**]() at KDD 2023. 
+The official source code for [**Similarity-Preserving Adversarial Graph Contrastive Learning**](https://arxiv.org/abs/2306.13854) at KDD 2023. 
 
 Yeonjun In*, [Kanghoon Yoon*](https://kanghoonyoon.github.io/), and [Chanyoung Park](http://dsail.kaist.ac.kr/professor/)
 
